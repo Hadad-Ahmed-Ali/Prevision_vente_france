@@ -8,7 +8,7 @@ Information : Le travail a été mené sous le logiciel R pour la méthode de Bo
 Excel pour les deux autres méthodes.
 
 1 Méthode de décomposition
-      1.1 Choix de la méthode . . . . . . . . . . . . . . . . . . . . . . .
+      1.1 Choix de la méthode . . . . . . . . . . . . . . . . . . . . . . 
       1.2 Méthode de decomposition : Modèle multiplicatif . . . . . . .
       1.2.1 Calcul de la tendance par filtrage par moyenne mobile
       1.2.2 Calcul des coefficients saisonniers . . . . . . . . . . . .
