@@ -1,7 +1,9 @@
    **Pour élaborer un modèle prédictif fiable, nous parcourons trois méthodes et comparons leurs puissances de prédiction :**
 
 → Méthodes de décomposition
+
 → Le lissage : Holt, Holt-Winters additive et Holt-Winters multiplicative
+
 → Méthode de Box-Jenkins.
 
 Information : Le travail a été mené sous le logiciel R pour la méthode de Box-Jenkins et sous
@@ -9,9 +11,13 @@ Excel pour les deux autres méthodes.
 
 1 Méthode de décomposition
       1.1 Choix de la méthode . . . . . . . . . . . . . . . . . . . . . . 
+      
       1.2 Méthode de decomposition : Modèle multiplicatif . . . . . . .
+      
       1.2.1 Calcul de la tendance par filtrage par moyenne mobile
+      
       1.2.2 Calcul des coefficients saisonniers . . . . . . . . . . . .
+      
       1.2.3 Série sans variations saisonnières : CVS . . . . . . . .
       
 2 Le lissage
