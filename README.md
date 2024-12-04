@@ -1,4 +1,4 @@
-    "Création de modèles prédictifs basés sur les données de l'Indice de volume des ventes pour l'ensemble du commerce en France "
+**"Création de modèles prédictifs basés sur les données de l'Indice de volume des ventes pour l'ensemble du commerce en France "**
    
    **Pour élaborer un modèle prédictif fiable, nous parcourons trois méthodes et comparons leurs puissances de prédiction :**
 
