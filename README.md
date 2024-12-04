@@ -9,7 +9,8 @@
 Information : Le travail a été mené sous le logiciel R pour la méthode de Box-Jenkins et sous
 Excel pour les deux autres méthodes.
 
-1 Méthode de décomposition
+**1 Méthode de décomposition**
+
       1.1 Choix de la méthode . . . . . . . . . . . . . . . . . . . . . . 
       
       1.2 Méthode de decomposition : Modèle multiplicatif . . . . . . .
@@ -20,7 +21,8 @@ Excel pour les deux autres méthodes.
       
       1.2.3 Série sans variations saisonnières : CVS . . . . . . . .
       
-2 Le lissage
+**2 Le lissage**
+
       2.1 Méthode de Holt . . . . . . . . . . . .
       2.2 Méthode de Holt-Winters additive . .
       2.3 Méthode de Holt-Winters multiplicatif
