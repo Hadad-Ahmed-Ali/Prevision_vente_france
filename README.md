@@ -10,7 +10,7 @@ Pour élaborer un modèle prédictif fiable, nous parcourons trois méthodes et 
       → Le lissage : Holt, Holt-Winters additive et Holt-Winters multiplicative
       → Méthode de Box-Jenkins.
 
-### 1 Méthode de décomposition**
+### 1 Méthode de décomposition
 
       1.1 Choix de la méthode . . . . . . . . . . . . . . . . . . . . . . 
       1.2 Méthode de decomposition : Modèle multiplicatif . . . . . .     
@@ -18,7 +18,7 @@ Pour élaborer un modèle prédictif fiable, nous parcourons trois méthodes et 
       1.2.2 Calcul des coefficients saisonniers . . . . . . . . . . . .
       1.2.3 Série sans variations saisonnières : CVS . . . . . . . .
       
-### 2 Le lissage**
+### 2 Le lissage
 
       2.1 Méthode de Holt . . . . . . . . . . . .
       2.2 Méthode de Holt-Winters additive . .
@@ -26,7 +26,7 @@ Pour élaborer un modèle prédictif fiable, nous parcourons trois méthodes et 
       2.4 Meilleure méthode . . . . . . . . . . .
       2.5 Prévision . . . . . . . . . . . . . . . .
 
-### 3 Méthode de Box-Jenkins**
+### 3 Méthode de Box-Jenkins
 
       3.1 Analyse des données . . . . . . . . . . . . . . . . . .
       3.2 Identification du modèle . . . . . . . . . . . . . . . .
